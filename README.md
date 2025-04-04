@@ -52,7 +52,7 @@ Currently pursuing a degree in Information Systems, I've also worked with suppor
 
 ---
 
-## 📚 Certifications
+## 🩷 Certifications
 
 - C# Programming with OOP – Alura  
 - C# Advanced: Collections, Files & Libraries – Alura  
