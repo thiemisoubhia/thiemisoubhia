@@ -2,11 +2,11 @@
 
 💻 *Bachelor's in Information Systems @ FIAP*  
 📍 São Paulo, Brazil  
-📧 [thiemisoubhiadoi@gmail.com](mailto:thiemisoubhiadoi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thiemi-soubhia-doi)
+🩷 [thiemisoubhiadoi@gmail.com](mailto:thiemisoubhiadoi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thiemi-soubhia-doi)
 
 ---
 
-## 🌷 Hello, World!
+## 🩷 Hello, World!
 
 Hi! I'm **Thiemi**, a tech enthusiast who believes technology should be simple, helpful, and beautiful.  
 I love developing websites, solving problems, and creating tools that make everyday life easier — especially when I can mix **creativity and code** 💡✨
@@ -15,13 +15,13 @@ Currently pursuing a degree in Information Systems, I've also worked with suppor
 
 ---
 
-## 💖 Tech Stack
+## 🩷 Tech Stack
 
-- 🌐 **Languages**: Java, C#, JavaScript, Swift, Dart  
-- 🎨 **Front-end**: HTML5, CSS3, Bootstrap, Flutter  
-- 🗃️ **Databases**: MySQL, Oracle SQL, MongoDB  
-- 🛠️ **Tools**: Git & GitHub, Figma, Power BI  
-- 💻 **OS**: Windows, macOS, Linux  
+- **Languages**: Java, C#, JavaScript, Swift, Dart  
+- **Front-end**: HTML5, CSS3, Bootstrap, Flutter  
+- **Databases**: MySQL, Oracle SQL, MongoDB  
+- **Tools**: Git & GitHub, Figma, Power BI  
+- **OS**: Windows, macOS, Linux  
 
 ---
 
@@ -41,8 +41,8 @@ Currently pursuing a degree in Information Systems, I've also worked with suppor
 ## 🎓 Education
 
 - **FIAP (2021–2024)** – BSc. Information Systems  
-  - 🏅 *Next Prize* – Best Ford Project  
-  - 🌟 *Startup One* Top 30
+  -  *Next Prize* – Best Ford Project  
+  -  *Startup One* Top 30
 
 - **FIAP School (2018–2020)** – Technical High School  
   Participated in innovation fairs and tech expos.
@@ -59,11 +59,11 @@ Currently pursuing a degree in Information Systems, I've also worked with suppor
 
 ---
 
-## 🌻 Projects & Volunteering
+## 🩷 Projects & Volunteering
 
-- 💚 **Fome Zero** – Anti-waste food sharing platform  
-- 🐶 **Pet Fair Volunteer** – Equipe Pet  
-- 🎁 **Toy Factory** – Social impact project
+- **Fome Zero** – Anti-waste food sharing platform  
+- **Pet Fair Volunteer** – Equipe Pet  
+- **Toy Factory** – Social impact project
 
 ---
 
@@ -72,5 +72,5 @@ Currently pursuing a degree in Information Systems, I've also worked with suppor
 ---
 
 > 🌸 *“Technology with heart can change the world.”* 🌸  
-> Let's connect and make the digital world a little more human 💕
+> Let's connect and make the digital world a little more human 🩷
 
