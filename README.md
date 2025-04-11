@@ -18,7 +18,7 @@ Currently pursuing a degree in Information Systems, I've also worked with suppor
 ## 🩷 Tech Stack
 
 - **Languages**: Java, C#, JavaScript, Swift, Dart  
-- **Front-end**: HTML5, CSS3, Bootstrap, Flutter  
+- **Front-end**: HTML5, CSS3, Bootstrap, Flutter, Angular
 - **Databases**: MySQL, Oracle SQL, MongoDB  
 - **Tools**: Git & GitHub, Figma, Power BI  
 - **OS**: Windows, macOS, Linux  
