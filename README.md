@@ -1,7 +1,9 @@
 # 🌸 Thiemi Soubhia Doi
 
+💻 *Technical Certificated in Information Technology @ FIAP School*  
 💻 *Bachelor's in Information Systems @ FIAP*  
-📍 São Paulo, Brazil  
+💻 *Diploma in Computer Programming @ Georgian College*  
+📍 Barrie, Canada  
 🩷 [thiemisoubhiadoi@gmail.com](mailto:thiemisoubhiadoi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thiemi-soubhia-doi)
 
 ---
