@@ -13,7 +13,7 @@
 Hi! I'm **Thiemi**, a tech enthusiast who believes technology should be simple, helpful, and beautiful.  
 I love developing websites, solving problems, and creating tools that make everyday life easier — especially when I can mix **creativity and code** 💡✨
 
-Currently pursuing a degree in Information Systems, I've also worked with support, design, and development. I'm always up for new learning and challenges!
+Currently pursuing a diploma in Computer Pragramming, I've also worked with support, design, and development. I'm always up for new learning and challenges!
 
 ---
 
