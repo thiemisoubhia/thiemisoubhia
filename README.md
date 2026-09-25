@@ -29,8 +29,14 @@ Currently pursuing a diploma in Computer Pragramming, I've also worked with supp
 
 ## ✨ Experience Highlights
 
-- **Help Desk Analyst** – FIAP (2020–2024)  
-  Provided support for IT incidents and helped students daily.
+- **System Officer 2** – OPS Service Centre, Field Services – West Region, Government of Ontario (2026)
+ Delivered Tier 2 technical support for end users, troubleshooting hardware, software, network connectivity, Windows, and enterprise application issues in a fast-paced service desk environment.
+
+- **Support Analyst** - LED10 (2025)
+Provided technical support and incident resolution for end users. Led a data sanitization project to improve data quality, consistency, and accuracy across organizational databases, while also managing and resolving service desk tickets in a fast-paced support environment.
+
+- **Help Desk Analyst 1 & 2** – FIAP (2020–2024)  
+  Managed and prioritized development team support queues, troubleshooting and resolving escalated incidents. Produced operational and performance reports, analyzing service metrics, ticket volumes, response times, and support trends to support decision-making and continuous improvement initiatives.
 
 - **Teaching Assistant (Intern)** – FIAP (2020)  
   Assisted teachers and students during tech labs.
