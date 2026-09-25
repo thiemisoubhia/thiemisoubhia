@@ -19,10 +19,10 @@ Currently pursuing a diploma in Computer Pragramming, I've also worked with supp
 
 ## 🩷 Tech Stack
 
-- **Languages**: Java, C#, JavaScript, Swift, Dart  
+- **Languages**: Java, C#, JavaScript, Swift, Dart, Python, PHP  
 - **Front-end**: HTML5, CSS3, Bootstrap, Flutter, Angular
-- **Databases**: MySQL, Oracle SQL, MongoDB  
-- **Tools**: Git & GitHub, Figma, Power BI  
+- **Databases**: MySQL, Oracle SQL, MongoDB
+- **Tools**: Git & GitHub, Figma, Power BI, Tableau 
 - **OS**: Windows, macOS, Linux  
 
 ---
